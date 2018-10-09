@@ -1,5 +1,6 @@
 site_name: Carl Tsui
 nav:
+    - Home: index.md
     - c: c/about.md
     - cpp: cpp/about.md
     - rust: rust/about.md
