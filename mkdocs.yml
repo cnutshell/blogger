@@ -2,3 +2,4 @@ site_name: Carl Tsui's Blog
 nav:
     - Home: index.md
     - About: about.md
+theme: readthedocs
