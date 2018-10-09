@@ -1,5 +1,13 @@
-site_name: Carl Tsui's Blog
+site_name: Carl Tsui
 nav:
-    - Home: index.md
-    - About: about.md
+    - c: c/about.md
+    - cpp: cpp/about.md
+    - rust: rust/about.md
+    - golang: golang/about.md
+    - linux: linux/about.md
+    - network: network/about.md
+    - algorithem: golang/about.md
+    - kubernetes: kubernetes/about.md
+    - prometheus: prometheus/about.md
+    - istio: istio/about.md
 theme: readthedocs
