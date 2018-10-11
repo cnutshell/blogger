@@ -21,7 +21,7 @@ The *usermod* command modifies the system account files<sup>2</sup> to reflect t
 
 Example:
 
-> `usemod -a -G <user group> <user name>` would add a specified user to the group.
+> `usemod -a -G wheel <user name>` would grant a specified user *root priviledge*.
 
 
 ***
