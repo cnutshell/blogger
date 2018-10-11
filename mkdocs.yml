@@ -5,6 +5,8 @@ nav:
     - cpp: cpp/about.md
     - rust: rust/about.md
     - golang: golang/about.md
+    - shell:
+        - dmidecode: shell/dmidecode.md
     - linux: linux/about.md
     - network: network/about.md
     - algorithem: golang/about.md
