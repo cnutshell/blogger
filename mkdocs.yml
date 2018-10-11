@@ -7,6 +7,7 @@ nav:
     - golang: golang/about.md
     - shell:
         - dmidecode: shell/dmidecode.md
+        - usedmod: shell/usermod.md
     - linux: linux/about.md
     - network: network/about.md
     - algorithem: golang/about.md
