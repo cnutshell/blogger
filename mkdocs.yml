@@ -12,6 +12,7 @@ nav:
     - linux: linux/about.md
     - ansible:
         - role: ansible/role.md
+        - variable: ansible/variable.md
     - network: network/about.md
     - algorithem: golang/about.md
     - kubernetes: kubernetes/about.md
