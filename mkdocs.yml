@@ -10,6 +10,8 @@ nav:
         - usermod: shell/usermod.md
         - virsh: shell/virsh.md
     - linux: linux/about.md
+    - ansible:
+        - role: ansible/role.md
     - network: network/about.md
     - algorithem: golang/about.md
     - kubernetes: kubernetes/about.md
