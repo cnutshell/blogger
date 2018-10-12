@@ -5,6 +5,8 @@ nav:
     - cpp: cpp/about.md
     - rust: rust/about.md
     - golang: golang/about.md
+    - python:
+        - module: python/module.md
     - shell:
         - dmidecode: shell/dmidecode.md
         - usermod: shell/usermod.md
