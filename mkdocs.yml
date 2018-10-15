@@ -17,7 +17,9 @@ nav:
         - variable: ansible/variable.md
     - network: network/about.md
     - algorithem: golang/about.md
-    - kubernetes: kubernetes/about.md
+    - kubernetes:
+        - limit: kubernetes/Support.md
+        - setup: kubernetes/Setup.md
     - prometheus: prometheus/about.md
     - istio: istio/about.md
 theme: readthedocs
