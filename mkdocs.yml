@@ -16,7 +16,7 @@ nav:
         - role: ansible/role.md
         - variable: ansible/variable.md
     - network: network/about.md
-    - algorithem: golang/about.md
+    - algorithm: golang/about.md
     - kubernetes:
         - limit: kubernetes/Support.md
         - setup: kubernetes/Setup.md

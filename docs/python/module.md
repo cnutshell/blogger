@@ -1,4 +1,8 @@
-# module<sup>1</sup>
+# module
+
+## Motivation
+
+Confused with *"from . import x"*
 
 ##Module Loading
 
