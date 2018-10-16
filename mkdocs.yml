@@ -20,6 +20,7 @@ nav:
     - kubernetes:
         - limit: kubernetes/Support.md
         - setup: kubernetes/Setup.md
+        - architecture: kubernetes/Architecture of a Kubernetes cluster.md
     - prometheus: prometheus/about.md
     - istio: istio/about.md
 theme: readthedocs
