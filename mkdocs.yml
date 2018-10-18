@@ -6,6 +6,7 @@ nav:
     - rust: rust/about.md
     - golang:
         - gRPC: golang/gRPC.md
+        - Example: golang/grpc-example.md
     - python:
         - module: python/module.md
     - shell:
