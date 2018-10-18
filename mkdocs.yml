@@ -5,7 +5,7 @@ nav:
     - cpp: cpp/about.md
     - rust: rust/about.md
     - golang:
-        gRPC: golang/gRPC.md
+        - gRPC: golang/gRPC.md
     - python:
         - module: python/module.md
     - shell:
