@@ -44,7 +44,7 @@ GRPC_VERBOSITY=debug GRPC_TRACE=tcp,http,api ./helloworld_application_using_grpc
 
 ## Performance
 
-Q: How to profile grpc's performance?
+> - How to profile grpc's performance?
 
 ## Concepts
 
@@ -62,7 +62,7 @@ On the other hand, **networks are inherently asynchronous** and in many scenario
 
 A gRPC call comprises of a bidirectional stream of messages, initiated by the client.  In the client-to-server direction, this stream begins with a mandatory `Call Header`, followed by optional `Initial-Metadata`, followed by zero or more `Payload Messages`. The server-to-client direction contains an optional `Initial-Metadata`, followed by zero or more `Payload Messages` terminated with a mandatory `Status` and optional `Status-Metadata` (a.k.a.,`Trailing-Metadata`).
 
-![gRPC protocol](./gRPC-protocol.png)
+![gRPC protocol](./gRPC.png)
 
 gRPC bidirectional streams are mapped to HTTP/2 streams.
 

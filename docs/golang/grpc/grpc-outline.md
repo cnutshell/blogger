@@ -10,4 +10,4 @@
 1. establish a *connection* to server
 2. call Invoke on this *connection*
 
-![](./grpc-example.png)
+![](./grpc-outline.png)

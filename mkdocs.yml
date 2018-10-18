@@ -5,8 +5,12 @@ nav:
     - cpp: cpp/about.md
     - rust: rust/about.md
     - golang:
-        - gRPC: golang/gRPC.md
-        - Example: golang/grpc-example.md
+        - gRPC:
+            - gRPC: golang/grpc/gRPC.md
+            - Outline: golang/grpc/grpc-outline.md
+            - Example: golang/grpc/grpc-example.md
+        - protobuf:
+            - protobuf: golang/protobuf/protocol-buffer.md
     - python:
         - module: python/module.md
     - shell:
