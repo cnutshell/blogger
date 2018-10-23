@@ -17,6 +17,7 @@ nav:
         - dmidecode: shell/dmidecode.md
         - usermod: shell/usermod.md
         - virsh: shell/virsh.md
+        - tcpdump: shell/tcpdump.md
     - linux: linux/about.md
     - ansible:
         - role: ansible/role.md
