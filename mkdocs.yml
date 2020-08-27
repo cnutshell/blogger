@@ -12,7 +12,8 @@ nav:
         - protobuf:
             - protobuf: golang/protobuf/protocol-buffer.md
     - python:
-        - module: python/module.md
+        - Module: python/module.md
+        - Python Environment: python/Python Environments.md
     - shell:
         - dmidecode: shell/dmidecode.md
         - usermod: shell/usermod.md
@@ -22,7 +23,8 @@ nav:
     - ansible:
         - role: ansible/role.md
         - variable: ansible/variable.md
-    - network: network/about.md
+    - network:
+        - I/O model: network/IO Models.md
     - algorithm: golang/about.md
     - kubernetes:
         - limit: kubernetes/Support.md
